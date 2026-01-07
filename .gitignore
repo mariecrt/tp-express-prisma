@@ -1,0 +1,11 @@
+node_modules
+# Keep environment variables out of version control
+.env
+docker/.env
+
+/generated/prisma
+*.log
+.DS_Store
+
+GITHUB_SETUP.md
+setup-github.ps1
