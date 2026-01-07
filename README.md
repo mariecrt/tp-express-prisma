@@ -52,6 +52,8 @@ docker compose up --build
 
 L'application sera accessible sur http://localhost:3001
 
+Pour que le back-end de l'api marche, ne pas oublier de lancer la commande ```bash npm start```.
+
 ## Endpoints
 
 - **Application web** : http://localhost:3000
